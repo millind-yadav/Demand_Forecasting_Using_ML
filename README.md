@@ -105,7 +105,7 @@ Predictions closely track actual sales across the test window. The final compari
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Demand_Forecasting_Using_ML.git
+git clone https://github.com/millind-yadav/Demand_Forecasting_Using_ML.git
 cd Demand_Forecasting_Using_ML
 ```
 
