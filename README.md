@@ -98,7 +98,6 @@ Models are evaluated using **R² Score** and **Adjusted R² Score** on the held-
 
 Predictions closely track actual sales across the test window. The final comparison plot (`final.png`) shows model output vs. ground truth over a 300-record window after hyperparameter tuning.
 
-![Predictions vs Actual Sales](https://github.com/shreyas-jk/Demand-Forecasting-Using-ML/blob/main/final.png?raw=true)
 
 ---
 
